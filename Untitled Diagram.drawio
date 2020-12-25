@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-12-25T05:58:24.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T7r1ZeHYNWvBVcDeJyH0" version="14.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-25T08:55:31.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="T9D6ZDHIYn-NlKJB-xTv" version="14.1.2" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1422" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X1wrN2Fx7HQsxlADkhY6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X1wrN2Fx7HQsxlADkhY6-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1wrN2Fx7HQsxlADkhY6-2" value="OODM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X1wrN2Fx7HQsxlADkhY6-2" value="OODM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1wrN2Fx7HQsxlADkhY6-3" value="API_SERVICE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X1wrN2Fx7HQsxlADkhY6-3" value="API_SERVICE" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X1wrN2Fx7HQsxlADkhY6-4" value="KAFKA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="X1wrN2Fx7HQsxlADkhY6-4" value="KAFKA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gj0pQwU4TEdyX554GiUP-1" value="为对象实例属性设置值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
